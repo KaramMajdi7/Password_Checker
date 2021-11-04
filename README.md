@@ -12,7 +12,7 @@ here is a quick look on the program:
  
  ![pass2](https://user-images.githubusercontent.com/74671857/140299654-6e5181f9-ac04-46a6-8257-0200f4d9bc1d.JPG)
 
-The I will click the ASK button to print the output:
+Then I will click the ASK button to print the output:
 
 ![pass3](https://user-images.githubusercontent.com/74671857/140299710-52470681-9149-48c8-89eb-89ed845f087d.JPG)
 
